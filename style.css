@@ -1,0 +1,68 @@
+#hobby{
+    text-shadow: 2px 2px red;
+}
+
+  .links{
+  display: inline;
+    color: red;
+     padding-left: 12px;
+    padding-right: 12px;
+       font-size: 20px;
+         text-align: left;
+      float:none;
+}
+.links:hover{
+ background-color: darkviolet; 
+}
+#home{
+  
+   background:linear-gradient( orange 0%,white 100%);
+  
+  background-size: cover;
+background-repeat: no-repeat;
+  
+}
+#about{  
+   background:linear-gradient( yellow 0%,violet 100%);
+  
+  background-size: cover;
+background-repeat: no-repeat;
+  
+}
+
+img{
+  width: 300px;
+   height: 300px;
+}
+#drawings{  
+   background:linear-gradient( blue 0%,black 100%);
+  
+  background-size: cover;
+background-repeat: no-repeat;
+}
+#wel{
+     background:linear-gradient( red 0%,pink 100%);
+  
+  background-size: cover;
+background-repeat: no-repeat;
+    
+}
+
+body{
+    text-align: center;
+}
+
+#contacts{
+    background:linear-gradient( grey 0%,pink 100%);
+  
+  background-size: cover;
+background-repeat: no-repeat;
+    
+}
+#inspiration{
+    background:linear-gradient( aqua 0%,green 100%);
+  
+  background-size: cover;
+background-repeat: no-repeat;
+    
+}
